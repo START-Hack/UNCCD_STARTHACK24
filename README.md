@@ -27,7 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Paula Padrino Vilela, pvilela@unccd.int</p>
+<p align="center"> Devashree Niraula, dniraula@unccd.int</p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
