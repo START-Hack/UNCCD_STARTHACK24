@@ -23,7 +23,10 @@ Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus se
 
 ## <p align="center"> Judging Criteria: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
+The three main evaluation criteria are: 
+ - Accuracy of data used,
+ - Incorporation of GIS/RS data in the app, website/dashboard development,
+ - Creativity, Innovation and Vision
 
 ## <p align="center"> Point of Contact: </p>
 
@@ -33,4 +36,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. D
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-### Prize Name
+Winning teams will be awarded one drone per team (estimated value per drone: 300 - 400 USD) member along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding. 
+Runner-ups will receive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets.
