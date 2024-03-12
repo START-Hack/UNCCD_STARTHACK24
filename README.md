@@ -10,7 +10,7 @@ The G20, or Group of Twenty, is an intergovernmental forum of the world’s majo
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+<p align="center"> https://docs.google.com/presentation/d/1bvHDJofG3Njb9ElYIGl1iTbQPvUwySHV/edit#slide=id.p1 </p>
 
 ## <p align="center"> Further Information: </p>
 
