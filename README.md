@@ -17,8 +17,7 @@ The G20, or Group of Twenty, is an intergovernmental forum of the world’s majo
 Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
 
 ##  <p align="center"> Resources: </p>
-- Lorem ipsum dolor sit amet
-- consectetur adipiscing elit
+
 
 
 ## <p align="center"> Judging Criteria: </p>
