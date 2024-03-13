@@ -18,7 +18,7 @@ Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus se
 
 ##  <p align="center"> Resources: </p>
 
-
+Taks 2: The resources and the recommdended library are publicly available through this link: https://colab.research.google.com/drive/1dOgy7HHjpVgh14KflXeSDxP6J_bS9FIh#scrollTo=Zg22Eeb6rjLx
 
 ## <p align="center"> Judging Criteria: </p>
 
