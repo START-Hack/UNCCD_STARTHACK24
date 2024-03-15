@@ -8,6 +8,32 @@ The G20, or Group of Twenty, is an intergovernmental forum of the world’s majo
 
 <p align="center"> Insert Pitchdeck here </p>
 
+## <p align="center"> Hackathon Challenges: </p> 
+
+## Hackathon Structure Overview
+
+In order to encourage innovation and skill enhancement among participating teams, the hackathon is structured in 3 phases:
+
+### First Task: Wildfire Identification Challenge
+
+The inaugural task is centered around the critical challenge of wildfire identification. Each participating team will be equipped with a foundational deep learning model, specifically the **EfficientNetB0**, pre-trained to classify instances of forest fires from a curated dataset dedicated to wildfire detection. This model serves not only as a preliminary tool but also as a standard benchmark to ensure equitable comparison across all entries. Teams are encouraged to enhance this model's accuracy and efficiency by innovating on its architecture or methodologies. Alternatively, should teams choose to develop a model from the ground up, it is imperative to utilize EfficientNetB0 as the baseline framework. This approach guarantees a level playing field, facilitating a fair and objective assessment of each team's inventive solutions tailored to this pressing environmental concern.
+
+#### Stage One: Initial Model Evaluation
+
+- Teams are first tasked with downloading and deploying the provided baseline **EfficientNetB0 model** to evaluate its performance on the test wildfire dataset.
+- Completing this initial evaluation secures a foundational score of **3 points** for each team, acknowledging their competence in working with the provided deep learning model.
+
+#### Stage Two: Model Improvement
+
+- The crux of the challenge lies in the subsequent improvement of the wildfire detection model.
+- Teams are encouraged to refine and augment the baseline model, aiming for substantial advancements in its predictive accuracy.
+- The enhanced models will undergo rigorous testing against a concealed wildfire dataset from Brazil.
+- The percentage of improvement over the baseline model, as gauged on this hidden dataset, will be the yardstick for success in this stage.
+- This improvement percentage, when compared against the enhancements achieved by other teams, will be scaled up and reflected in the final score, with the potential to earn up to an additional **5 points**.
+- The final tally will be derived by multiplying the relative percentage improvement by 5, thus incentivizing breakthrough innovations in wildfire detection technology.
+
+**Deadline for Submission**: All submissions for Task 1 must be finalized and submitted by no later than **9 PM on the 21st of March** via an email to Ismail El Madafri <ismail.el.madafri@upc.edu> with the link to the repository.
+
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> https://docs.google.com/presentation/d/1bvHDJofG3Njb9ElYIGl1iTbQPvUwySHV/edit#slide=id.p1 </p>
