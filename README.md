@@ -10,7 +10,7 @@ The G20, or Group of Twenty, is an intergovernmental forum of the world’s majo
 
 ## <p align="center"> Hackathon Challenges: </p> 
 
-## Hackathon Structure Overview
+## Structure Overview
 
 In order to encourage innovation and skill enhancement among participating teams, the hackathon is structured in 3 phases:
 
