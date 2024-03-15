@@ -31,6 +31,7 @@ The three main evaluation criteria are:
 
 <p align="center"> Paula Padrino Vilela, pvilela@unccd.int</p>
 <p align="center"> Devashree Niraula, dniraula@unccd.int</p>
+<p align="center"> Ismail El madafri, ismail.el.madafri@upc.edu</p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
