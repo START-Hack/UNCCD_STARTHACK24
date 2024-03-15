@@ -32,7 +32,7 @@ The inaugural task is centered around the critical challenge of wildfire identif
 - This improvement percentage, when compared against the enhancements achieved by other teams, will be scaled up and reflected in the final score, with the potential to earn up to an additional **5 points**.
 - The final tally will be derived by multiplying the relative percentage improvement by 5, thus incentivizing breakthrough innovations in wildfire detection technology.
 
-**Deadline for Submission**: All submissions for Task 1 must be finalized and submitted by no later than **9 PM on the 21st of March** via an email to Ismail El Madafri <ismail.el.madafri@upc.edu> with the link to the repository.
+**Deadline for Submission**: All submissions for Task 1 must be finalized and submitted by no later than **9 PM on the 21st of March** via an email to Ismail El madafri <ismail.el.madafri@upc.edu> with the link to the repository.
 
 ## <p align="center"> Deep Dive Slides: </p>
 
