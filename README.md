@@ -14,7 +14,7 @@ The G20, or Group of Twenty, is an intergovernmental forum of the world’s majo
 
 In order to encourage innovation and skill enhancement among participating teams, the hackathon is structured in 3 phases:
 
-### First Task: Wildfire Identification Challenge
+### First Task: Wildfire Identification Challenge (WIP)
 
 The inaugural task is centered around the critical challenge of wildfire identification. Each participating team will be equipped with a foundational deep learning model, specifically the **EfficientNetB0**, pre-trained to classify instances of forest fires from a curated dataset dedicated to wildfire detection. This model serves not only as a preliminary tool but also as a standard benchmark to ensure equitable comparison across all entries. Teams are encouraged to enhance this model's accuracy and efficiency by innovating on its architecture or methodologies. Alternatively, should teams choose to develop a model from the ground up, it is imperative to utilize EfficientNetB0 as the baseline framework. This approach guarantees a level playing field, facilitating a fair and objective assessment of each team's inventive solutions tailored to this pressing environmental concern.
 
@@ -44,9 +44,9 @@ Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus se
 
 ##  <p align="center"> Resources: </p>
 
-Taks 1: The resources and the recommdended library are publicly available through these links: https://colab.research.google.com/drive/1butKK0Q1-jT---732aWQ1XYQoD2rRq1Y?usp=sharing
+(WIP) Taks 1: The resources and the recommdended library are publicly available through these links: https://colab.research.google.com/drive/1butKK0Q1-jT---732aWQ1XYQoD2rRq1Y?usp=sharing
 
-https://colab.research.google.com/drive/1FUh12H-UtYC4I4UXHcli6rHLAcm-YKd_?usp=sharing
+The baseline model: https://colab.research.google.com/drive/1FUh12H-UtYC4I4UXHcli6rHLAcm-YKd_?usp=sharing
 
 Taks 2: The resources and the recommdended library are publicly available through this link: https://colab.research.google.com/drive/1dOgy7HHjpVgh14KflXeSDxP6J_bS9FIh#scrollTo=6iwRG92A1_zq
 
