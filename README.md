@@ -129,7 +129,7 @@ For the hackathon focused on fire detection technologies, participating teams wi
 
 - **Documentation and Tutorials:** To further support the teams, resources on how to use Google Colab effectively, as well as best practices for model training and enhancement, will be available.
 
-- **Curated Dataset:** A curated dataset of wildfire images will be provided to train and test the models, ensuring consistency in evaluation and performance measurement across all submissions.
+- **Curated Wildfire Dataset:** A curated dataset of wildfire images will be provided to train and test the models, ensuring consistency in evaluation and performance measurement across all submissions.
 
 - **GIS/RS Tools:** Hackers will have a range of tools at their disposal for tackling the case study, including the recommended Google Collab for GIS/RS tasks and the option to use GIS open software like QGIS for visualizing wildfire occurrences and obtaining rapid basic statistical insights.
 
