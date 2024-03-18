@@ -2,7 +2,7 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-## Who are we?
+### Who are we?
 
 **The G20 Global Land Initiative**
 
@@ -12,7 +12,7 @@ The G20 Global Land Initiative at the United Nations Convention to Combat Desert
 
 The Universitat Politècnica de Catalunya, also known as BarcelonaTech, is a pioneering institution in the field of engineering and architectural studies. It has always been at the forefront of academic excellence and innovation, offering a range of programs that encourage creative and critical thinking among students and researchers. UPC collaborates with international initiatives like the G20 Global Land Initiative to provide data and expertise that support global sustainability efforts.
 
-**The Problem**
+### The Problem
 
 The challenge we face as the G20 Global Land Initiative is to raise awareness on the importance of halting land degradation and incentivise investment for land restoration.
 We expect our Hack Teams to pitch their final product to a panel jury representing members of the government of Brazil and provide a comprehensive visualization product/solution that presents the problem and incentivises for solutions.
