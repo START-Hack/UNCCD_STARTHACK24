@@ -54,7 +54,7 @@ Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, Genera
 
 ## <p align="center"> The Pitch: </p>
 
-What do the partners expect from the participants’ presentation?
+**What do the partners expect from the participants’ presentation?**
 
 ### Format:
 - Each team will have a 3-minute pitch, followed by a 3-minute question and answer session in front of the judging panel.
@@ -81,8 +81,6 @@ What do the partners expect from the participants’ presentation?
 
 
 ## <p align="center"> Hackathon Challenges: </p> 
-
-## Structure Overview
 
 In order to encourage innovation and skill enhancement among participating teams, the hackathon is structured in 3 phases:
 
