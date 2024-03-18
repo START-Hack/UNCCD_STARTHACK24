@@ -1,9 +1,9 @@
-# <p align="center"> A Land of Opportunities:Tackling Wildfire Land Degradation in Brazil with the G20 Global Land Initiative - United Nations Convention to Combat Desertification and the Universitat Politecnica de Catalunya </p>
+# <p align="center"> A Land of Opportunities:Tackling Wildfire Land Degradation in Brazil with the G20 Global Land Initiative and the Universitat Politecnica de Catalunya </p>
 
 ## <p align="center"> Case Introduction: </p>
 
 Who we are: 
-The G20 Global Land Initiative was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders. 
+The G20 Global Land Initiative at the United Nations Convention to Combat Desertification was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders. 
 The Universitat Politecnica de Catalunya: (Ismail to add a few words)
 The Problem:
 Extensive wildfire in Brazil leading to widespred land degradation, severely impacting various ecosystems and populations.
