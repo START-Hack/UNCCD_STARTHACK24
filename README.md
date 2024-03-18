@@ -113,11 +113,15 @@ The three main evaluation criteria are:
 ## <p align="center"> Point of Contact: </p>
 
 <p align="left"> For data inquiries : 
-Ismail El Madafri, a PhD candidate in Sustainability at the Universitat Politècnica de Catalunya (UPC), Spain. 
-Devashree Niraula, Research and Outreach Specialist,G20 Global Land Initiative, UNCCD. </p>
+  
+- Ismail El Madafri, a PhD candidate in Sustainability at the Universitat Politècnica de Catalunya (UPC), Spain.
+  
+- Devashree Niraula, Research and Outreach Specialist,G20 Global Land Initiative, UNCCD, dniraula@unccd.int </p>
 <p align="left"> For visualization, end product, hack case context inquiries: 
-Paula Padrino Vilela, Programme Officer, G20 Global Land Initiative, UNCCD. 
-Song Kim, Communications Coordinator, G20 Global Land Initiative, UNCCD. </p>
+  
+- Paula Padrino Vilela, Programme Officer, G20 Global Land Initiative, UNCCD, pvilela@unccd.int
+  
+- Song Kim, Communications Coordinator, G20 Global Land Initiative, UNCCD, skim@unccd.int </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
