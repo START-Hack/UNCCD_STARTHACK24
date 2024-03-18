@@ -111,6 +111,25 @@ The hack teams are presented with 3 additional sets of data. While most of them 
 The hack teams need to prepare and present the pitch to convince the Government of Brazil representatives on the importance of this issue of land restoration and propose innovative visualization solutions to prevent and halt land degradation caused by wildfires. 
 We envision a tech innovative solution that is interactive and user friendly. Showcasing the data and providing the key highlights of the problem of wildfire in brazil. Examples of products include: app, platforms, website, dashboard.
 
+## <p align="center"> Technology: </p>
+
+**Which APIs, SDKs, software, or hardware components are vital to get the job done? How will you provide the necessary technology?**
+
+For the hackathon focused on fire detection technologies, participating teams will be equipped with essential technological resources to facilitate their development process:
+
+- **Google Colab Access:** Each team will be granted access to "Pay As You Go - Google Colab" for model training, offering a robust platform with scalable computational resources to support deep learning model development and experimentation.
+
+- **Deep Learning Model:** Teams will be provided with a pre-built, pre-trained deep learning model specifically designed for detecting and classifying forest fires from images. This model can be used as a starting point or as a benchmark.
+
+- **Documentation and Tutorials:** To further support the teams, resources on how to use Google Colab effectively, as well as best practices for model training and enhancement, will be available.
+
+- **Curated Dataset:** A curated dataset of wildfire images will be provided to train and test the models, ensuring consistency in evaluation and performance measurement across all submissions.
+
+- **GIS/RS Tools:** Hackers will have a range of tools at their disposal for tackling the case study, including the recommended Google Collab for GIS/RS tasks and the option to use GIS open software like QGIS for visualizing wildfire occurrences and obtaining rapid basic statistical insights.
+
+- **Programming Software:** The use of programming software such as Python and R will be supported for accessibility to satellite images, with a focus on analysis rather than visualization alone.
+
+By providing these technological resources, the hackathon aims to challenge participants and equip them with the tools and knowledge necessary to create impactful solutions in the realm of fire detection.
 
 ## <p align="center"> Deep Dive Slides: </p>
 
