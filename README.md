@@ -30,13 +30,13 @@ Explore early warning systems and applications for preventing degradation
 
 What is the problem to be solved? Which outcome is expected as a final product? Who gets addressed by this case?
 
-### A. What is the current problem?
+# A. What is the current problem?
 
 - Extensive wildfire in Brazil leading to widespread land degradation, severely impacting various ecosystems and populations.
 - The challenge we face as the G20 Global Land Initiative is to raise awareness on the importance of halting land degradation and incentivize investment for land restoration.
 - We expect our Hack Teams to pitch their final product to a panel jury representing members of the government of Brazil and provide a comprehensive visualization product/solution that presents the problem and incentivizes for solutions.
 
-### B. What is the expected final product?
+# B. What is the expected final product?
 
 - Develop an innovative, interactive visualization product to present the scale of the problem of land degradation in Brazil and present data effectively:
   - There are no constraints on the solution type but it has to be technological and interactive such as an app, website, or dashboard.
@@ -51,7 +51,7 @@ What is the problem to be solved? Which outcome is expected as a final product? 
   5. Explore early warning systems and applications for preventing degradation.
 
 
-Who are the users of this solution?
+# C. Who are the users of this solution?
 Main user: Government of Brazil
 Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, General Public, and residents living near the affected areas. 
 
