@@ -165,7 +165,7 @@ To learn more about the G20 Global Land Initiative: https://g20land.org
 
 ##  <p align="center"> Resources: </p>
 
-Taks 1: The resources and the recommdended library are publicly available through these links: https://colab.research.google.com/drive/1butKK0Q1-jT---732aWQ1XYQoD2rRq1Y?usp=sharing
+Taks 1: The resources and the recommdended library are publicly available through these links: https://colab.research.google.com/drive/1butKK0Q1-jT---732aWQ1XYQoD2rRq1Y?authuser=1
 
 The baseline model: https://colab.research.google.com/drive/1FUh12H-UtYC4I4UXHcli6rHLAcm-YKd_?usp=sharing
 
