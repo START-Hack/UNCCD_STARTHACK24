@@ -155,10 +155,15 @@ Taks 2: The resources and the recommdended library are publicly available throug
 
 ## <p align="center"> Judging Criteria: </p>
 
-The three main evaluation criteria are: 
- - Accuracy of data used,
- - Incorporation of GIS/RS data in the app, website/dashboard development,
- - Creativity, Innovation and Vision
+To ensure a fair and comprehensive evaluation, we have established a detailed set of judgment criteria. These criteria are designed to assess the innovative aspects, technical proficiency, practicality, and overall impact of your solutions.
+
+The evaluation will be conducted across three tasks, each with its specific focus areas such as accuracy of data, methodology, effective utilization of data sources, and integration of various technologies. Points will be awarded based on the quality and effectiveness of your proposed solutions.
+
+For a complete breakdown of the criteria and the points allocated for each task, please refer to our [Judgment Criteria Slides](https://drive.google.com/file/d/1h79n2_JPZ6gmpNO9XiwTv5oRKkHH-BS/view?usp=sharing).
+
+We encourage all teams to review the criteria thoroughly to align your presentations and submissions accordingly. Your understanding of these criteria will be pivotal in guiding your project development and can significantly impact your overall score.
+
+We wish all teams the best of luck and look forward to your innovative solutions!
 
 ## <p align="center"> Point of Contact: </p>
 
