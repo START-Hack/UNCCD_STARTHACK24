@@ -2,7 +2,10 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-The G20 Global Land Initiative and the Universitat Politecnica de Catalunya is presenting you with this hack case. The G20 Global Land Initiative was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders. With this ambitious vision, the G20-GLI mission is clear: elevate awareness of the imperative to halt land degradation and mobilize investment for comprehensive restoration efforts. It is in this spirit that we call upon our esteemed Hack Teams to embark on a journey of creativity and ingenuity.
+Who we are: 
+The G20 Global Land Initiative was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders. 
+The Universitat Politecnica de Catalunya: (Ismail to add a few words)
+With this shared ambition and vision both organisations devided to partner together to elevate awareness of the imperative to halt land degradation and mobilize investment for comprehensive restoration efforts. It is in this spirit that we call upon our esteemed Hack Teams to embark on a journey of creativity and ingenuity.
 
 ## <p align="center"> The Pitch: </p>
 
