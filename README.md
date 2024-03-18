@@ -151,7 +151,7 @@ The three main evaluation criteria are:
 
 <p align="left"> For data inquiries : 
   
-- Ismail El Madafri, a PhD candidate in Sustainability at the Universitat Politècnica de Catalunya (UPC), Spain.
+- Ismail El Madafri, a PhD candidate in Sustainability at the Universitat Politècnica de Catalunya (UPC), Spain, ismail.el.madafri@upc.edu
   
 - Devashree Niraula, Research and Outreach Specialist,G20 Global Land Initiative, UNCCD, dniraula@unccd.int </p>
 <p align="left"> For visualization, end product, hack case context inquiries: 
