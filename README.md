@@ -30,13 +30,13 @@ Explore early warning systems and applications for preventing degradation
 
 What is the problem to be solved? Which outcome is expected as a final product? Who gets addressed by this case?
 
-# A. What is the current problem?
+### A. What is the current problem?
 
 - Extensive wildfire in Brazil leading to widespread land degradation, severely impacting various ecosystems and populations.
 - The challenge we face as the G20 Global Land Initiative is to raise awareness on the importance of halting land degradation and incentivize investment for land restoration.
 - We expect our Hack Teams to pitch their final product to a panel jury representing members of the government of Brazil and provide a comprehensive visualization product/solution that presents the problem and incentivizes for solutions.
 
-# B. What is the expected final product?
+### B. What is the expected final product?
 
 - Develop an innovative, interactive visualization product to present the scale of the problem of land degradation in Brazil and present data effectively:
   - There are no constraints on the solution type but it has to be technological and interactive such as an app, website, or dashboard.
@@ -51,7 +51,7 @@ What is the problem to be solved? Which outcome is expected as a final product? 
   5. Explore early warning systems and applications for preventing degradation.
 
 
-# C. Who are the users of this solution?
+#### C. Who are the users of this solution?
 Main user: Government of Brazil
 Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, General Public, and residents living near the affected areas. 
 
@@ -59,7 +59,31 @@ Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, Genera
 
 ## <p align="center"> The Pitch: </p>
 
-<p align="center"> Insert Pitchdeck here </p>
+What does the partner expect from the participants’ presentation?
+
+### Format:
+- Each team will have a 3-minute pitch, followed by a 3-minute question and answer session in front of the judging panel.
+- Teams will showcase their solutions during this session.
+- Teams will have access to a TV screen.
+
+### Key Elements:
+- **Innovative Solution Approach:** Demonstrating a novel and creative approach to addressing wildfire detection and land degradation in Brazil.
+- **Effective Integration of Technologies:** Utilizing drones, GIS, population statistics, and other relevant technologies seamlessly within the solution.
+- **Technical Proficiency:** Showing mastery in data collection, analysis, and visualization techniques.
+- **Practicality and Usability:** Ensuring the solution is feasible for real-world implementation, user-friendly for stakeholders with varying technical backgrounds, and reproducible in different contexts.
+- **Integration of Topic and Impact:** Deeply understanding and integrating the given challenge, with a focus on addressing wildfire management and broader environmental issues, emphasizing scalability and adaptability.
+- **Originality, Creativity, and Vision:** Presenting an original and innovative concept with the potential to revolutionize wildfire management practices, considering various stakeholders, applications, and future implications.
+- **Clear and Effective Communication:** Clearly and coherently conveying the solution's significance, features, and benefits to the judges, aligning with other evaluation criteria.
+
+### Requirements:
+- **Technical Setup:** Ensure compatibility with the TV screen for presenting the solution.
+- **Time Management:** Adhere to the 3-minute pitch and 3-minute Q&A session time limit.
+- **Visual Presentation:** Utilize visual aids effectively to enhance understanding and engagement.
+- **Accessible Explanation:** Present in a manner understandable to judges with varying technical expertise, avoiding jargon.
+- **Preparedness for Questions:** Be ready to answer inquiries regarding technical aspects, feasibility, and potential impact.
+- **Engaging Delivery:** Maintain the judges' attention through organized, structured, and compelling storytelling.
+- **Alignment with Evaluation Criteria:** Ensure the presentation addresses all evaluation criteria, emphasizing innovation, technical proficiency, feasibility, impact, creativity, and alignment with the given problem statement.
+
 
 ## <p align="center"> Hackathon Challenges: </p> 
 
