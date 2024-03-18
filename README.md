@@ -199,5 +199,5 @@ We wish all teams the best of luck and look forward to your innovative solutions
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-Winning teams will be awarded one drone per team along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding. 
+Winning teams will be awarded with a DJI Mini 2 SE Drone per team along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding. 
 
