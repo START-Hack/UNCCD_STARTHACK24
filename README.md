@@ -50,8 +50,7 @@ What is the problem to be solved? Which outcome is expected as a final product? 
   4. Showcase the profitability of technology-driven land restoration solutions.
   5. Explore early warning systems and applications for preventing degradation.
 
-
-#### C. Who are the users of this solution?
+### C. Who are the users of this solution?
 Main user: Government of Brazil
 Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, General Public, and residents living near the affected areas. 
 
