@@ -107,7 +107,7 @@ We envision a tech innovative solution that is interactive and user friendly. Sh
 
 ## <p align="center"> Further Information: </p>
 
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
+To learn more about the G20 Global Land Initiative: https://g20land.org
 
 ##  <p align="center"> Resources: </p>
 
