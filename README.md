@@ -5,7 +5,26 @@
 Who we are: 
 The G20 Global Land Initiative was launched during the Saudi Arabia G20 Presidency, and it has as ambition to achieve a 50 per cent reduction in degraded land worldwide by 2040. To inspire all stakeholders to collectively deliver on land conservation and restoration outcomes: we showcase success stories; engage the private sector; empower civil society and the public; and share knowledge to build capacity among G20 members as well as interested non-member countries and other stakeholders. 
 The Universitat Politecnica de Catalunya: (Ismail to add a few words)
-With this shared ambition and vision both organisations devided to partner together to elevate awareness of the imperative to halt land degradation and mobilize investment for comprehensive restoration efforts. It is in this spirit that we call upon our esteemed Hack Teams to embark on a journey of creativity and ingenuity.
+The Problem:
+Extensive wildfire in Brazil leading to widespred land degradation, severely impacting various ecosystems and populations.
+The challenge we face as the G20 Global Land Initiative is to raise awareness on the importance of halting land degradation and incentivise investment for land restoration.
+We expect our Hack Teams to pitch their final product to a panel jury representing members of the government of Brazil and provide a comprehensive visualization product/solution that presents the problem and incentivises for solutions.
+
+What is the expected final product?
+Develop an innovative, interactive visualization product to present the scale of the problem of land degradation in brazil and present data effectively:
+There are no constraints on the solution type but it has to be technological and interactive such as an app, website, or dashboard. 
+ensure the inclusion of features that enhance user engagement and understanding. 
+Ensure accuracy of data and results presented (see data sections below)
+The aim of this final product is to:
+Accurately represent the extent of wildfire degradation in Brazil
+Raise awareness of land degradation issues 
+Incentivize investment in prevention and restoration measures.
+Showcase the profitability of technology-driven land restoration solutions. 
+Explore early warning systems and applications for preventing degradation 
+
+Who are the users of this solution?
+Main user: Government of Brazil
+Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, General Public, and residents living near the affected areas. 
 
 ## <p align="center"> The Pitch: </p>
 
