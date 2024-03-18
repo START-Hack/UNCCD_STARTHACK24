@@ -147,7 +147,7 @@ The Wildfire Dataset is a key resource and is available through two primary aven
 - **Kaggle API:** For streamlined access and integration with your Google Colab notebooks, the Kaggle API is recommended. Detailed instructions for using the Kaggle API can be found below in the ressources section.
 
 **Datasets:**
-The remaining datasets are essential for comprehensive analysis and are available via the following shared drive link: [Additional Datasets on Google Drive](https://drive.google.com/drive/folders/1c-3kX3SnlFERtZsMmgo1CczCIJ8F4T8m).
+The remaining datasets are essential for comprehensive analysis and are available via the following shared drive link: [Datasets on Google Drive](https://drive.google.com/drive/folders/1c-3kX3SnlFERtZsMmgo1CczCIJ8F4T8m).
 
 **Dataset Descriptions:**
 To understand the structure, content, and best practices for utilizing these datasets, please consult the provided documentation: [Datasets Description Document](https://docs.google.com/document/d/1BB5wa8DsinMY26GuIrWoz9Jnriu_48bgdI8q9wIZuZM/edit).
