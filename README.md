@@ -139,8 +139,6 @@ By providing these technological resources, the hackathon aims to challenge part
 
 ## <p align="center"> Dataset Description and Access for Hackers </p>
 
-## Dataset Access for Hackers
-
 Participants in the hackathon have a variety of datasets at their disposal to aid in the development of their solutions.
 
 **Wildfire Dataset Access:**
