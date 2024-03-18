@@ -17,7 +17,7 @@ The Universitat Politècnica de Catalunya, also known as BarcelonaTech, is a pio
 The challenge we face as the G20 Global Land Initiative is to raise awareness on the importance of halting land degradation and incentivise investment for land restoration.
 We expect our Hack Teams to pitch their final product to a panel jury representing members of the government of Brazil and provide a comprehensive visualization product/solution that presents the problem and incentivises for solutions.
 
-In a world where wildfires devastate our landscapes, the battle against land degradation is more critical than ever. The G20 Global Land Initiative stands at the forefront of this battle. We've partnered with the University of Catalonia, who provided us with valuable data to tackle this issue.
+In a world where wildfires devastate our landscapes, the battle against land degradation is more critical than ever. The G20 Global Land Initiative stands at the forefront of this battle. We've partnered with the BarcelonaTech University, who provided us with valuable data to tackle this issue.
 Today we want to take you on a journey with us to Brazil. This year, Brazil holds the G20 Presidency and we have a unique opportunity to collaborate with the Brazilian government in addressing one of their biggest causes for land degradation: wildfires. Extensive wildfire in Brazil leading to widespred land degradation, severely impacting various ecosystems and populations.
 
 Brazil is home to six major biomes, each with its own unique features and biodiversity. These biomes cover a whopping 20 percent of the Earth's natural species. The Amazon, known for its tropical forests and meadows, often takes the spotlight. But Brazil's other biomes like the Cerrado, Caatinga, Pantanal, Atlantic Forest, and the Pampa are equally important. The Cerrado's savanna vegetation supports agriculture, while the Caatinga thrives in fruits and medicinal herbs despite being a semi-arid region. The Pantanal, shaped by rivers, is home to rare flora and fauna. The Pampa integrates the herbaceous Araucária species forests, and the Atlantic Forest exhibits varied climates and ecosystems along its coastlines.
@@ -37,7 +37,7 @@ What is the problem to be solved? Which outcome is expected as a final product? 
 - Develop an innovative, interactive visualization product to present the scale of the problem of land degradation in Brazil and present data effectively:
   - There are no constraints on the solution type but it has to be technological and interactive such as an app, website, or dashboard.
   - Ensure the inclusion of features that enhance user engagement and understanding.
-  - Ensure accuracy of data and results presented (see data sections below).
+  - Work on improving the accuracy of your detection model (see Hackathon Challenges section below).
 
 - The aim of this final product is to:
   1. Accurately represent the extent of wildfire degradation in Brazil.
@@ -54,7 +54,7 @@ Potential sub users: Entrepreneurs, Environmental Agencies, firefighters, Genera
 
 ## <p align="center"> The Pitch: </p>
 
-What does the partner expect from the participants’ presentation?
+What do the partners expect from the participants’ presentation?
 
 ### Format:
 - Each team will have a 3-minute pitch, followed by a 3-minute question and answer session in front of the judging panel.
