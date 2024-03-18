@@ -144,17 +144,15 @@ Participants in the hackathon have a variety of datasets at their disposal to ai
 **Wildfire Dataset Access:**
 The Wildfire Dataset is a key resource and is available through two primary avenues:
 - **Kaggle Page:** You can visit the dataset's [Kaggle page](https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset) to explore and download the data manually.
-- **Kaggle API:** For streamlined access and integration with your Google Colab notebooks, the Kaggle API is recommended. Detailed instructions for using the Kaggle API can be found in the [Resources for Task 1](#resources-task1) section.
+- **Kaggle API:** For streamlined access and integration with your Google Colab notebooks, the Kaggle API is recommended. Detailed instructions for using the Kaggle API can be found below in the ressources section.
 
-**Additional Datasets:**
+**Datasets:**
 The remaining datasets are essential for comprehensive analysis and are available via the following shared drive link: [Additional Datasets on Google Drive](https://drive.google.com/drive/folders/1c-3kX3SnlFERtZsMmgo1CczCIJ8F4T8m).
 
 **Dataset Descriptions:**
 To understand the structure, content, and best practices for utilizing these datasets, please consult the provided documentation: [Datasets Description Document](https://docs.google.com/document/d/1OaK8DyF01pe9eFz6tDHg-lo2DVHfy52AcaSq_SOGD1U/edit).
 
 We strongly encourage all hackers to review the dataset descriptions carefully to maximize the potential of their proposed solutions and to align their approaches with the data provided.
-
-
 
 
 ## <p align="center"> Deep Dive Slides: </p>
