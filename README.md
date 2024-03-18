@@ -16,18 +16,6 @@ Brazil is home to six major biomes, each with its own unique features and biodiv
 Despite their richness, these biomes face significant challenges. Land degradation, caused by forest fires, is an urgent matter that needs immediate attention. These wildfires not only destroy precious ecosystems but also exacerbate land degradation, leading to a cascade of environmental impacts. From soil erosion and habitat destruction to invasive plant species, floods, desertification, air pollution, and water scarcity, the consequences are profound and far-reaching.
 We've gathered datasets and resources to guide you in developing innovative solutions in locating active wildfires and showcase your results. you must raise awareness on the impact of wildfires to the Government of Brazil. Whether you're tech-savvy or not, you'll have the opportunity to contribute and pitch your ideas to the Brazilian Government. Get ready to use cutting-edge technology and diverse skills to revolutionize wildfire detection and land restoration.
 
-What is the expected final product?
-Develop an innovative, interactive visualization product to present the scale of the problem of land degradation in brazil and present data effectively:
-There are no constraints on the solution type but it has to be technological and interactive such as an app, website, or dashboard. 
-ensure the inclusion of features that enhance user engagement and understanding. 
-Ensure accuracy of data and results presented (see data sections below)
-The aim of this final product is to:
-Accurately represent the extent of wildfire degradation in Brazil
-Raise awareness of land degradation issues 
-Incentivize investment in prevention and restoration measures.
-Showcase the profitability of technology-driven land restoration solutions. 
-Explore early warning systems and applications for preventing degradation 
-
 What is the problem to be solved? Which outcome is expected as a final product? Who gets addressed by this case?
 
 ### A. What is the current problem?
@@ -158,7 +146,7 @@ The three main evaluation criteria are:
   
 - Paula Padrino Vilela, Programme Officer, G20 Global Land Initiative, UNCCD, pvilela@unccd.int
   
-- Song Kim, Communications Coordinator, G20 Global Land Initiative, UNCCD, skim@unccd.int </p>
+- Song Kim, Communications Coordinator, G20 Global Land Initiative, UNCCD, songkim2050@gmail.com </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
