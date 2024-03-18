@@ -90,7 +90,7 @@ What does the partner expect from the participants’ presentation?
 
 In order to encourage innovation and skill enhancement among participating teams, the hackathon is structured in 3 phases:
 
-### First Task: Wildfire Identification Challenge (WIP)
+### First Task: Wildfire Identification Challenge
 
 The inaugural task is centered around the critical challenge of wildfire identification. Each participating team will be equipped with a foundational deep learning model, specifically the **EfficientNetB0**, pre-trained to classify instances of forest fires from a curated dataset dedicated to wildfire detection. This model serves not only as a preliminary tool but also as a standard benchmark to ensure equitable comparison across all entries. Teams are encouraged to enhance this model's accuracy and efficiency by innovating on its architecture or methodologies. Alternatively, should teams choose to develop a model from the ground up, it is imperative to utilize EfficientNetB0 as the baseline framework. This approach guarantees a level playing field, facilitating a fair and objective assessment of each team's inventive solutions tailored to this pressing environmental concern.
 
