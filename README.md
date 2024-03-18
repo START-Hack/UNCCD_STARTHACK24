@@ -159,7 +159,7 @@ To ensure a fair and comprehensive evaluation, we have established a detailed se
 
 The evaluation will be conducted across three tasks, each with its specific focus areas such as accuracy of data, methodology, effective utilization of data sources, and integration of various technologies. Points will be awarded based on the quality and effectiveness of your proposed solutions.
 
-For a complete breakdown of the criteria and the points allocated for each task, please refer to our [Judgment Criteria Slides](https://drive.google.com/file/d/1Ih79h2_JPZ6gmpNO9XIwTVo5RkXHH-BS/view?usp=sharing).
+For a complete breakdown of the criteria and the points allocated for each task, please refer to our [Judgment Criteria Slide](https://drive.google.com/file/d/1Ih79h2_JPZ6gmpNO9XIwTVo5RkXHH-BS/view?usp=sharing).
 
 We encourage all teams to review the criteria thoroughly to align your presentations and submissions accordingly. Your understanding of these criteria will be pivotal in guiding your project development and can significantly impact your overall score.
 
