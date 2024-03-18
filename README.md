@@ -88,5 +88,5 @@ The three main evaluation criteria are:
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-Winning teams will be awarded one drone per team (estimated value per drone: 300 - 400 USD) member along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding. 
-Runner-ups will receive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets.
+Winning teams will be awarded one drone per team along with exclusive G20 GLI polo shirts, caps, water bottles, USB drives, notebooks, and magnets adorned with G20 GLI branding. 
+
