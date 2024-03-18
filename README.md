@@ -1,4 +1,4 @@
-# <p align="center"> A Land of Opportunities:Tackling Wildfire Land Degradation in Brazil with the G20 Global Land Initiative and the Universitat Politècnica de Catalunya </p>
+# <p align="center"> A Land of Opportunities: Tackling Wildfire Land Degradation in Brazil with the G20 Global Land Initiative and the Universitat Politècnica de Catalunya </p>
 
 ## <p align="center"> Case Introduction: </p>
 
