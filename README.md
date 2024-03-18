@@ -87,6 +87,20 @@ The inaugural task is centered around the critical challenge of wildfire identif
 
 **Deadline for Submission**: All submissions for Task 1 must be finalized and submitted by no later than **9 PM on the 21st of March** via an email to Ismail El madafri <ismail.el.madafri@upc.edu> with the link to the repository.
 
+### Second Task: Use of satellite image in understanding land degradation context in Brazil
+
+The hack teams are presented with 3 additional sets of data. While most of them are easily accesible online through Google Earth Engine, the rests are furnished to afford hackers the flexibility to cross-reference facts about the country and gain a holistic understanding of the wildfire landscape in Brazil. These will be beneficial in the preparation of task number 3 where hack teams’ will build their visualizations products. While the datasets carry significant volume, their exhaustive utilization is not mandatory. These datasets include:
+- A MODIS time series satellite imagery, covering Brazil to evaluate extent of burned areas (i.e. number of hectares, spatial distribution of the burned areas…)
+- A MODIS landcover dataset to identify the type of land cover within the burn areas and  assess the impact of different land cover types on the severity of wildfires.
+- 100m gridded population data to assess the impact on the population.
+- Country boundary (share file) of Brazil is provided. If your solution requires projecting the layers in the country map. Please make sure to use the country boundary share file provided. This is to make sure that the administrative boundary of Brazil used is verified by the UN. 
+
+### Third Task: Vizualisation product
+
+The hack teams need to prepare and present the pitch to convince the Government of Brazil representatives on the importance of this issue of land restoration and propose innovative visualization solutions to prevent and halt land degradation caused by wildfires. 
+We envision a tech innovative solution that is interactive and user friendly. Showcasing the data and providing the key highlights of the problem of wildfire in brazil. Examples of products include: app, platforms, website, dashboard.
+
+
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> https://docs.google.com/presentation/d/1bvHDJofG3Njb9ElYIGl1iTbQPvUwySHV/edit#slide=id.p1 </p>
