@@ -104,6 +104,8 @@ The inaugural task is centered around the critical challenge of wildfire identif
 
 **Deadline for Submission**: All submissions for Task 1 must be finalized and submitted by no later than **9 PM on the 21st of March** via an email to Ismail El madafri <ismail.el.madafri@upc.edu> with the link to the repository.
 
+For a full understanding of Task 1 and its requirements, please consult the detailed documentation provided in our [Task 1 Guide](https://docs.google.com/document/d/1WOkepP5RUNy6nFEG5oCKE9rP3sjl7P-dZbuTh4gAxc8/edit).
+
 ### Second Task: Use of satellite image in understanding land degradation context in Brazil
 
 The hack teams are presented with 3 additional sets of data. While most of them are easily accesible online through Google Earth Engine, the rests are furnished to afford hackers the flexibility to cross-reference facts about the country and gain a holistic understanding of the wildfire landscape in Brazil. These will be beneficial in the preparation of task number 3 where hack teams’ will build their visualizations products. While the datasets carry significant volume, their exhaustive utilization is not mandatory. These datasets include:
