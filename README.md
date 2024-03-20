@@ -105,6 +105,7 @@ The inaugural task is centered around the critical challenge of wildfire identif
 **Deadline for Submission**: All submissions for Task 1 must be finalized and submitted by no later than **9 PM on the 21st of March** via an email to Ismail El madafri <ismail.el.madafri@upc.edu> with the link to the repository.
 
 For a full understanding of Task 1 and its requirements, please consult the detailed documentation provided in our [Task 1 Guide](https://docs.google.com/document/d/1WOkepP5RUNy6nFEG5oCKE9rP3sjl7P-dZbuTh4gAxc8/edit).
+
 Task 1: The baseline model: https://colab.research.google.com/drive/1butKK0Q1-jT---732aWQ1XYQoD2rRq1Y?authuser=1
 
 
