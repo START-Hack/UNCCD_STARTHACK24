@@ -117,8 +117,11 @@ The hack teams are presented with 3 additional sets of data. While most of them 
 - 100m gridded population data to assess the impact on the population.
 - Country boundary (share file) of Brazil is provided. If your solution requires projecting the layers in the country map. Please make sure to use the country boundary share file provided. This is to make sure that the administrative boundary of Brazil used is verified by the UN.
 
+Deadline for Submission: All submissions for Task 2 will be at the final pitch. For any doubts on Task 2, please contact Devashree Niraula, dniraula@unccd.int </p>
 
 Taks 2: The resources and the recommdended library are publicly available through this link: https://colab.research.google.com/drive/1dOgy7HHjpVgh14KflXeSDxP6J_bS9FIh#scrollTo=np5XRuWmVa-P
+
+
 
 ### Third Task: Vizualisation product
 
