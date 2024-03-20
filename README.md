@@ -169,6 +169,8 @@ To learn more about the G20 Global Land Initiative: https://g20land.org
 
 Task 1: The baseline model: https://colab.research.google.com/drive/1butKK0Q1-jT---732aWQ1XYQoD2rRq1Y?authuser=1
 
+For a full understanding of Task 1 and its requirements, please consult the detailed documentation provided in our [Task 1 Guide](https://docs.google.com/document/d/1WOkepP5RUNy6nFEG5oCKE9rP3sjl7P-dZbuTh4gAxc8/edit).
+
 Taks 1: Some resources can be found through this link: https://www.tensorflow.org/tutorials/images
 
 Taks 2: The resources and the recommdended library are publicly available through this link: https://colab.research.google.com/drive/1dOgy7HHjpVgh14KflXeSDxP6J_bS9FIh#scrollTo=6iwRG92A1_zq
