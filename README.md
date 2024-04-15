@@ -206,7 +206,7 @@ We wish all teams the best of luck and look forward to your innovative solutions
 
 <p align="left"> For data inquiries : 
   
-- Ismail El Madafri, a Researcher at the Universitat Politècnica de Catalunya · BarcelonaTech (UPC), Spain, ismail.el.madafri@upc.edu
+- Ismail El Madafri, Researcher at the Universitat Politècnica de Catalunya · BarcelonaTech (UPC), Spain, ismail.el.madafri@upc.edu
   
 - Devashree Niraula, Research and Outreach Specialist,G20 Global Land Initiative, UNCCD, dniraula@unccd.int </p>
 <p align="left"> For visualization, end product, hack case context inquiries: 
