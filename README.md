@@ -176,7 +176,7 @@ We strongly encourage all hackers to review the dataset descriptions carefully t
 
 To learn more about the G20 Global Land Initiative: https://g20land.org
 
-To learn more about the SOC-STEM research group: https://socstem.upc.edu/
+To learn more about the SOC-STEM Research Group: https://socstem.upc.edu/
 
 To learn more about the UPC's Graphic and Design Engineering Department: https://egd.upc.edu/en/research
 
